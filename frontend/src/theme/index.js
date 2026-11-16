@@ -8,6 +8,6 @@
 //   Save the file and the game in your browser updates instantly.
 // ================================================================
 
-import activeTheme from './presets/kitchen.js';
+import activeTheme from './presets/space.js';
 
 export default activeTheme;
